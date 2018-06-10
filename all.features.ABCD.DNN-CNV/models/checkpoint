@@ -1,0 +1,2 @@
+model_checkpoint_path: "all.features.ABCD.all.model"
+all_model_checkpoint_paths: "all.features.ABCD.all.model"
