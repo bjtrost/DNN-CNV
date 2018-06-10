@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+time=`date`
+printf "[$time] $*"
